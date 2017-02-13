@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+         "allowSyntheticDefaultImports": true
+    },
+    "exclude": [
+        "node_modules",
+        "release",
+        "dist"
+    ],
+    "include": [
+        "./**/*.es6"
+    ],
+    "files": [
+        "controllers/todos.es6" 
+    ]
+}
+
