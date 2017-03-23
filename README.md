@@ -1,6 +1,6 @@
 # node-password-encryption-demo
 
-Proof of concept to encrypt user passwords on a Mongo database>
+Proof of concept to encrypt user passwords on a Mongo Database
 - Operating system: Windows 10
 
 # Steps
