@@ -9,8 +9,8 @@ Proof of concept to encrypt user passwords on a Mongo database>
 ```bash
 mongod
 ```
-3.- Create Data directory: C:\data\db
-2. Start Node server
+3. Create Data directory: C:\data\db
+4. Start Node server
 ```bash
 npm install
 npm start
