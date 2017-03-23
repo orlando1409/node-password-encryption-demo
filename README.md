@@ -4,7 +4,7 @@ Proof of concept to encrypt user passwords on a Mongo database>
 - Operating system: Windows 10
 
 # Steps
-1. Download anf install Mongo Commnity Server: https://www.mongodb.com/download-center#community 
+1. Download and install Mongo Community Server: https://www.mongodb.com/download-center#community 
 2. Start MongoDB server
 ```bash
 mongod
@@ -14,4 +14,3 @@ mongod
 npm install
 npm start
 ```
-
